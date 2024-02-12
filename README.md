@@ -23,7 +23,7 @@ Check out the live demo: [Netflix Clone Demo](https://ott-platform-d5cf6.web.app
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/AnandRoy8121/ott-platform.git`
-2. Navigate to the project directory: `cd ott-platform`
+2. Navigate to the project directory: `cd NetflixGPT`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
