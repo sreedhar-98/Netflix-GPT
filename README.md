@@ -38,6 +38,7 @@ Check out the live demo: [Netflix Clone Demo](https://ott-platform-d5cf6.web.app
 - Netflix-like UI with dynamic movie categories.
 - Detailed movie information from TMDB API.
 - Personalized movie recommendations powered by GPT.
+- Integrated Firebase for robust user authentication and profile management, ensuring data security
 
 ## API Integrations
 
@@ -54,11 +55,8 @@ Check out the live demo: [Netflix Clone Demo](https://ott-platform-d5cf6.web.app
 
 - This project uses the GPT API by [GPT-3.5](https://platform.openai.com/).
 - Movie data is fetched from [TMDB](https://www.themoviedb.org/).
+- Integrated Firebase for robust user authentication and profile management, ensuring data security
 
-## Future Improvements
-
-- Implement user authentication.
-- Allow users to save favorite movies.
 
 ## Code Examples
 
